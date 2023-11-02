@@ -13,6 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <img src="/haha.png">
+      <h1>세계최강 울트라 임성규</h1>
   </DIV> 
 </body>
 </html>
