@@ -12,23 +12,16 @@
 <body>
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
-<<<<<<< HEAD
       <OL>
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-<<<<<<< HEAD
-          <LI>신창 최강 이정찬.</LI>
-=======
-          <li>이정찬</li>
-          <li>황규현</li>
-          <li>임성규</li>
->>>>>>> a4604b6c33752bfc36aab68098080be27ee25add
+          <LI>신창 최약 이정찬.</LI>
+          <li>ㄹㅇㅋㅋ</li>
+
       </OL>
-=======
       <img src="/haha.png">
       <img src="/도둑.jpg">
->>>>>>> 3365181b5837c28bdece1e496145b2bf305d3966
   </DIV> 
 </body>
 </html>
