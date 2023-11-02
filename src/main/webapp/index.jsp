@@ -20,6 +20,12 @@
           <li>ㄹㅇㅋㅋ</li>
 
       </OL>
+      
+      <OL>
+          <li>이정찬</li>
+          <li>황규현</li>
+          <li>임성규</li>
+      </OL>
       <img src="/haha.png">
       <img src="/도둑.jpg">
   </DIV> 
