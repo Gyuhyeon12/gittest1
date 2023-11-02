@@ -13,6 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <img src="/haha.png">
+      <img src="/도둑.jpg">
   </DIV> 
 </body>
 </html>
