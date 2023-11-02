@@ -12,8 +12,16 @@
 <body>
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
-      <img src="/haha.png">
       <h1>세계최강 울트라 임성규</h1>
+      
+      <OL>
+          <li>이정찬</li>
+          <li>황규현</li>
+          <li>임성규</li>
+      </OL>
+      
+      <img src="/haha.png">
+      <img src="/도둑.jpg">
   </DIV> 
 </body>
 </html>
